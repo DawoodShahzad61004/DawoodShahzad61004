@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate Software Engineer and Computer Sc
 🌱 Currently learning: Advanced JavaScript concepts, data structures, and algorithms to further enhance my problem-solving skills.
 🎯 Career goal: To become a proficient full-stack web developer and contribute to innovative and impactful projects.
 ⚡ Fun fact: I love creating small, fun projects like interactive web games to sharpen my skills.
-💼 What I Do Best
+💼 **What I Do Best**
 
         => Frontend Development:
             -> Proficient in HTML, CSS, and JavaScript.
@@ -29,14 +29,15 @@ Welcome to my GitHub profile! I'm a passionate Software Engineer and Computer Sc
             -> Participating in coding competitions and hackathons.
 
 
-🔧 Technologies & Tools
+🔧 **Technologies & Tools**
         => Languages: JavaScript, HTML, CSS, SQL, NoSQL
         => Frontend: React.js, Bootstrap, jQuery
         => Backend: Node.js, Express.js, RESTful APIs
         => Databases: MongoDB, MySQL
         => Version Control: Git, GitHub
         
-🌟 Featured Projects
+🌟 **Featured Projects**
+
         => Drum Kit
             A simple and fun interactive drum set built with HTML, CSS, and JavaScript. Responsive and features keypress interactions.
         
@@ -47,16 +48,16 @@ Welcome to my GitHub profile! I'm a passionate Software Engineer and Computer Sc
             My personal portfolio site showcasing my skills, projects, and experience. Built with HTML, CSS, Bootstrap, and JavaScript.
 
 
-🌱 Learning & Growth
+🌱 **Learning & Growth**
       I am committed to continuous learning and staying updated with the latest trends in technology. My GitHub repositories reflect my journey as I explore new tools, languages, and frameworks.
 
 
-📫 How to Reach Me
+📫 **How to Reach Me**
         => LinkedIn: Dawood Shahzad
         => Email: dawoodbutt590@gmail.com
 
 
-🌍 Let's Collaborate!
+🌍 **Let's Collaborate!**
       I’m always open to collaborating on exciting projects, contributing to open source, and learning from the developer community. Feel free to check out my repositories and get in touch if you’d like to work together.
 
 Thank you for visiting my GitHub profile! Let's connect, collaborate, and create something amazing.
