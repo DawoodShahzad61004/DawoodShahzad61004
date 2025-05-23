@@ -3,61 +3,24 @@
 
 Welcome to my GitHub profile! I'm a passionate Software Engineer and Computer Science student at FAST University, with a strong focus on web development, software engineering, and problem-solving. This space is where I share my projects, experiments, and contributions to the developer community.
 
-🚀 **About Me**
-🔭 Currently working on: Web development projects using the MERN stack (MongoDB, Express.js, React, Node.js).
-🌱 Currently learning: Advanced JavaScript concepts, data structures, and algorithms to further enhance my problem-solving skills.
-🎯 Career goal: To become a proficient full-stack web developer and contribute to innovative and impactful projects.
-⚡ Fun fact: I love creating small, fun projects like interactive web games to sharpen my skills.
-💼 **What I Do Best**
-
-        => Frontend Development:
-            -> Proficient in HTML, CSS, and JavaScript.
-            -> Experienced with modern frontend frameworks like React.js and Angular.
-            -> Focused on creating responsive and user-friendly interfaces.
-
-        => Backend Development:
-            -> Strong in server-side development using Node.js and Express.js.
-            -> Skilled in database management with both SQL and NoSQL (MongoDB).
-            -> Building RESTful APIs and managing authentication & authorization.
-
-        => Full-Stack Development:
-            -> Leveraging the MERN stack to create full-stack web applications.
-            -> Implementing complex features, state management, and API integrations.
-
-        => Problem Solving:
-            -> Regularly solving algorithm challenges to keep my problem-solving skills sharp.
-            -> Participating in coding competitions and hackathons.
+# 💫 About Me:
+🔭 I’m currently working on<br>A full-stack Task Management System using React, Node.js/Express, and SQL Server.<br><br>🕺🏽 I’m looking to collaborate on<br>Open-source or side projects involving JavaScript, React, or backend development.<br><br>🤝 I’m looking for help with<br>Integrating advanced features into my Task Management System project — especially in areas like user roles, notifications, or analytics.<br><br>🌱 I’m currently learning<br>MongoDB and Advanced Data Structures in JavaScript to level up my backend and algorithmic thinking.<br><br>💬 Ask me about<br>My journey in web development, my experience as a CS student, or how I manage side hustles alongside university.<br><br>⚡ Fun fact<br>I started web development with pure HTML & CSS, and now I’m building full-stack apps and aiming to launch my own software house in the future.
 
 
-🔧 **Technologies & Tools**
-        => Languages: JavaScript, HTML, CSS, SQL, NoSQL
-        => Frontend: React.js, Bootstrap, jQuery
-        => Backend: Node.js, Express.js, RESTful APIs
-        => Databases: MongoDB, MySQL
-        => Version Control: Git, GitHub
-        
-🌟 **Featured Projects**
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/DawoodShahzad61004) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dawoodbutt590@gmail.com) 
 
-        => Drum Kit
-            A simple and fun interactive drum set built with HTML, CSS, and JavaScript. Responsive and features keypress interactions.
-        
-        => Simon Game
-            A classic Simon memory game with animations, built using JavaScript and jQuery. Enhanced with engaging UI effects.
+# 💻 Tech Stack:
+![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=DawoodShahzad61004&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=DawoodShahzad61004&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DawoodShahzad61004&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-        => Personal Portfolio Website
-            My personal portfolio site showcasing my skills, projects, and experience. Built with HTML, CSS, Bootstrap, and JavaScript.
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+---
+[![](https://visitcount.itsvg.in/api?id=DawoodShahzad61004&icon=0&color=0)](https://visitcount.itsvg.in)
 
-🌱 **Learning & Growth**
-      I am committed to continuous learning and staying updated with the latest trends in technology. My GitHub repositories reflect my journey as I explore new tools, languages, and frameworks.
-
-
-📫 **How to Reach Me**
-        => LinkedIn: Dawood Shahzad
-        => Email: dawoodbutt590@gmail.com
-
-
-🌍 **Let's Collaborate!**
-      I’m always open to collaborating on exciting projects, contributing to open source, and learning from the developer community. Feel free to check out my repositories and get in touch if you’d like to work together.
-
-Thank you for visiting my GitHub profile! Let's connect, collaborate, and create something amazing.
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
