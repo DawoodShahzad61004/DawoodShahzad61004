@@ -192,10 +192,11 @@ My near-term goal: ship AI-powered software products that solve real problems at
 
 ---
 
-## GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=DawoodShahzad61004&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=DawoodShahzad61004&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DawoodShahzad61004&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+# 📈 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DawoodShahzad61004&theme=github-dark&hide_border=true" width="100%" />
+</p>
 
 ---
 
