@@ -1,26 +1,253 @@
-## Hi there, I'm Dawood Shahzad! 👋
+<div align="center">
 
+<!-- HERO BANNER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Dawood%20Shahzad&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Associate%20Software%20Engineer%20%E2%86%92%20AI%20Systems%20Builder&descSize=17&descAlignY=58&descColor=a78bfa&animation=fadeIn" alt="hero"/>
 
-Welcome to my GitHub profile! I'm a passionate Software Engineer and Computer Science student at FAST University, with a strong focus on web development, software engineering, and problem-solving. This space is where I share my projects, experiments, and contributions to the developer community.
+<!-- TYPING ANIMATION -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3500&pause=800&color=A78BFA&center=true&vCenter=true&width=620&lines=Building+Agentic+AI+Systems+%F0%9F%A4%96;RAG+%7C+Multi-Agent+Pipelines+%7C+LLM+Apps;Full-Stack+%E2%86%92+AI+Engineering;FAST+NUCES+%C2%B7+Lahore%2C+Pakistan)](https://git.io/typing-svg)
 
-# 💫 About Me:
-🔭 I’m currently working on<br>A full-stack Banking App with features like secure authentication, real-time transactions, balance tracking, analytics dashboards, and optional QR code-based transfers — using React, Node.js/Express, and MongoDB.<br><br>🚀 Recently Completed<br>A Task Management System built with React, Node.js/Express, and SQL Server — featuring task CRUD operations, user authentication, and responsive design.<br><br>🕺🏽 I’m looking to collaborate on<br>Open-source or side projects involving JavaScript, React, or backend development.<br><br>🤝 I’m looking for help with<br>Optimizing complex features in the Banking App — like role-based access, real-time notifications, and PDF/CSV exports.<br><br>🌱 I’m currently learning<br>MongoDB and Advanced Data Structures in JavaScript to level up my backend and algorithmic thinking.<br><br>💬 Ask me about<br>My journey in web development, my experience as a CS student, or how I manage side hustles alongside university.<br><br>⚡ Fun fact<br>I started web development with pure HTML & CSS, and now I’m building full-stack apps and aiming to launch my own software house in the future.
+<br/>
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dawood%20Shahzad-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/DawoodShahzad61004)
+[![Email](https://img.shields.io/badge/Email-dawoodbutt590%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:dawoodbutt590@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-DawoodShahzad61004-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/DawoodShahzad61004)
+[![Profile Views](https://komarev.com/ghpvc/?username=DawoodShahzad61004&style=flat-square&color=7c3aed&label=Profile+Views)](https://github.com/DawoodShahzad61004)
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/DawoodShahzad61004) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dawoodbutt590@gmail.com) 
-
-# 💻 Tech Stack:
-![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=DawoodShahzad61004&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=DawoodShahzad61004&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DawoodShahzad61004&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=DawoodShahzad61004&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## `whoami`
+
+```python
+dawood = {
+    "role"       : "Associate Software Engineer",
+    "location"   : "Lahore, Pakistan 🇵🇰",
+    "education"  : "BS Computer Science — FAST NUCES (Final Year)",
+    "origin"     : "Frontend → Full-Stack → AI Systems",
+    "building"   : ["Agentic AI", "RAG Pipelines", "Intelligent Software Products"],
+    "currently"  : "Designing multi-agent systems with self-learning feedback loops",
+}
+```
+
+My engineering path started with React and frontend work, expanded into backend systems and full-stack development, and has now converged on something more interesting: building AI systems that think, retrieve, and act. I write code that wraps LLMs into production-grade products — not prototypes.
+
+---
+
+## 🔭 Currently Working On
+
+| Area | What |
+|------|------|
+| 🤖 **Agentic AI** | Multi-agent pipelines with LangChain — orchestration, memory, tool use |
+| 📚 **RAG Systems** | Document ingestion, multi-step retrieval, self-checking workflows |
+| 🧠 **Feedback Loops** | Self-learning agent architectures that improve without retraining |
+| ⚙️ **AI SaaS** | AI-content detection and humanization platform (production) |
+
+---
+
+## 🎯 Current Focus
+
+```
+Full-Stack Engineering  ──────────────────────────► AI Systems Engineering
+     [Past]                                              [Now → Future]
+
+  React / Node.js                               LangChain / ChromaDB
+  REST APIs / SQL                               RAG / Vector Databases
+  Auth Systems                                  Multi-Agent Orchestration
+  CRUD Apps                                     Agentic Pipelines / LLMs
+```
+
+My near-term goal: ship AI-powered software products that solve real problems at the intersection of software engineering and intelligent systems.
+
+---
+
+## 🚀 Featured Projects
+
+<details open>
+<summary><strong>🧠 Student Learning App — Agentic RAG System</strong></summary>
+
+> An end-to-end agentic retrieval system built for educational content.
+
+- Multi-step document ingestion pipeline with **ChromaDB** vector storage
+- **Llama 3.3 70B** as the reasoning backbone
+- Self-checking retrieval workflow with confidence scoring
+- Feedback learning loop — system improves responses based on query history
+- Engineered with **LangChain** agent chains and tool use
+
+`LangChain` `ChromaDB` `Llama 3.3 70B` `RAG` `Multi-Agent` `Python`
+
+</details>
+
+<details>
+<summary><strong>⚙️ Sync-Ops — Full-Stack Task Management System</strong></summary>
+
+> Production-grade project management platform built for team workflows.
+
+- Role-based authentication with granular permission controls
+- Task assignment engine with status tracking and deadline management
+- Dashboard analytics — team velocity, task burn-down, user activity
+- Built on **React + Node.js + Express + MSSQL**
+
+`React.js` `Node.js` `Express.js` `MS SQL Server` `JWT` `Role-Based Auth`
+
+</details>
+
+<details>
+<summary><strong>🛡️ AI Tracer & Remover — SaaS Platform</strong></summary>
+
+> A commercial SaaS product for AI-content detection and humanization.
+
+- AI-generated text detection engine with confidence scoring
+- Humanization workflow that preserves semantic intent
+- Full authentication system + subscription architecture
+- Designed for content creators, academics, and enterprises
+
+`SaaS` `AI Detection` `Humanization` `Subscription` `Auth` `REST APIs`
+
+</details>
+
+<details>
+<summary><strong>🏦 Apna Bank — Secure Banking Application</strong></summary>
+
+> Full-stack banking application with real-world security patterns.
+
+- JWT-based authentication with session management
+- Secure transaction engine — transfers, balance tracking, transaction history
+- Role separation between customer accounts and admin operations
+- **React + Node.js + Express + MongoDB**
+
+`React` `Node.js` `MongoDB` `JWT` `Express.js` `Secure Banking`
+
+</details>
+
+<details>
+<summary><strong>🎨 Deep Learning Pseudo-Colorization of Grayscale Images</strong></summary>
+
+> Applied deep learning research — automated colorization of B&W imagery using CNNs.
+
+`Deep Learning` `Computer Vision` `CNN` `Python`
+
+</details>
+
+<details>
+<summary><strong>🌌 Cygnus-IV — NASA Asteroid Impact Simulator</strong></summary>
+
+> Physics simulation tool for modeling asteroid trajectories and Earth impact scenarios.
+
+`Simulation` `Physics Modeling` `NASA Data`
+
+</details>
+
+<details>
+<summary><strong>📊 ADATRA · PRISM</strong></summary>
+
+> Internal tools and research-grade software — details available on request.
+
+</details>
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+### AI & Agentic Systems
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F00?style=for-the-badge&logo=databricks&logoColor=white)
+![OpenAI](https://img.shields.io/badge/LLM%20Apps-412991?style=for-the-badge&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-7C3AED?style=for-the-badge&logo=buffer&logoColor=white)
+![Multi-Agent](https://img.shields.io/badge/Multi--Agent%20Systems-0F172A?style=for-the-badge&logo=probot&logoColor=white)
+![Vector DB](https://img.shields.io/badge/Vector%20Databases-FF4154?style=for-the-badge&logo=redis&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MS SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F00?style=for-the-badge&logo=databricks&logoColor=white)
+
+### Tools & Workflow
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DawoodShahzad61004&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" alt="GitHub Stats"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DawoodShahzad61004&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" alt="Top Languages"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=DawoodShahzad61004&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa" alt="GitHub Streak"/>
+
+</div>
+
+---
+
+## 🗺️ Roadmap — What's Next
+
+```
+2025 ──── Now ─────────────────────────────── 2026 ──────────────────►
+
+  ✅ Multi-agent systems         📍 Advanced LangGraph orchestration
+  ✅ RAG pipeline design          ⬜ LLM fine-tuning workflows
+  ✅ ChromaDB / Vector DBs        ⬜ LLMOps & agent observability
+  ✅ Full-stack AI SaaS           ⬜ Production-grade AI APIs at scale
+                                  ⬜ Open-source AI tooling contribution
+                                  ⬜ AI-first software house (long game)
+```
+
+The trajectory is clear: deeper into the engineering layer of AI — not just using models, but building the systems around them.
+
+---
+
+## 💼 Experience Snapshot
+
+| Role | Type | Stack |
+|------|------|-------|
+| Associate Software Engineer | Current | LangChain · ChromaDB · RAG · Multi-Agent · Python |
+| Backend Developer Intern | Previous | Node.js · Express.js · REST APIs · SQL |
+| React Developer Intern | Previous | React.js · JavaScript · Frontend Systems |
+
+---
+
+<div align="center">
+
+**FAST NUCES, Lahore · BS Computer Science (Final Year)**
+
+`Full-Stack` → `Systems Thinking` → `AI Engineering`
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/Let's%20Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/DawoodShahzad61004)
+[![Email](https://img.shields.io/badge/Reach%20Out-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dawoodbutt590@gmail.com)
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" alt="footer"/>
+
+</div>
