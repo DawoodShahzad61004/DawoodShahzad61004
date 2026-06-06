@@ -8,7 +8,7 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dawood%20Shahzad-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/DawoodShahzad61004)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dawood%20Shahzad-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dawoodshahzadbutt61004)
 [![Email](https://img.shields.io/badge/Email-dawoodbutt590%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:dawoodbutt590@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-DawoodShahzad61004-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/DawoodShahzad61004)
 [![Profile Views](https://komarev.com/ghpvc/?username=DawoodShahzad61004&style=flat-square&color=7c3aed&label=Profile+Views)](https://github.com/DawoodShahzad61004)
@@ -34,18 +34,18 @@ My engineering path started with React and frontend work, expanded into backend 
 
 ---
 
-## 🔭 Currently Working On
+## Currently Working On
 
 | Area | What |
 |------|------|
-| 🤖 **Agentic AI** | Multi-agent pipelines with LangChain — orchestration, memory, tool use |
-| 📚 **RAG Systems** | Document ingestion, multi-step retrieval, self-checking workflows |
-| 🧠 **Feedback Loops** | Self-learning agent architectures that improve without retraining |
-| ⚙️ **AI SaaS** | AI-content detection and humanization platform (production) |
+| **Agentic AI** | Multi-agent pipelines with LangChain — orchestration, memory, tool use |
+| **RAG Systems** | Document ingestion, multi-step retrieval, self-checking workflows |
+| **Feedback Loops** | Self-learning agent architectures that improve without retraining |
+| **AI SaaS** | AI-content detection and humanization platform (production) |
 
 ---
 
-## 🎯 Current Focus
+## Current Focus
 
 ```
 Full-Stack Engineering  ──────────────────────────► AI Systems Engineering
@@ -61,25 +61,25 @@ My near-term goal: ship AI-powered software products that solve real problems at
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <details open>
-<summary><strong>🧠 Student Learning App — Agentic RAG System</strong></summary>
+<summary><strong> Student Learning App — Agentic RAG System</strong></summary>
 
 > An end-to-end agentic retrieval system built for educational content.
 
 - Multi-step document ingestion pipeline with **ChromaDB** vector storage
-- **Llama 3.3 70B** as the reasoning backbone
+- **Llama 3.1 8B** as the reasoning backbone
 - Self-checking retrieval workflow with confidence scoring
 - Feedback learning loop — system improves responses based on query history
 - Engineered with **LangChain** agent chains and tool use
 
-`LangChain` `ChromaDB` `Llama 3.3 70B` `RAG` `Multi-Agent` `Python`
+`LangChain` `ChromaDB` `Llama 3.1 8B` `RAG` `Multi-Agent` `Python`
 
 </details>
 
 <details>
-<summary><strong>⚙️ Sync-Ops — Full-Stack Task Management System</strong></summary>
+<summary><strong> Sync-Ops — Full-Stack Task Management System</strong></summary>
 
 > Production-grade project management platform built for team workflows.
 
@@ -93,7 +93,7 @@ My near-term goal: ship AI-powered software products that solve real problems at
 </details>
 
 <details>
-<summary><strong>🛡️ AI Tracer & Remover — SaaS Platform</strong></summary>
+<summary><strong> AI Tracer & Remover — SaaS Platform</strong></summary>
 
 > A commercial SaaS product for AI-content detection and humanization.
 
@@ -107,7 +107,7 @@ My near-term goal: ship AI-powered software products that solve real problems at
 </details>
 
 <details>
-<summary><strong>🏦 Apna Bank — Secure Banking Application</strong></summary>
+<summary><strong> Apna Bank — Secure Banking Application</strong></summary>
 
 > Full-stack banking application with real-world security patterns.
 
@@ -121,7 +121,7 @@ My near-term goal: ship AI-powered software products that solve real problems at
 </details>
 
 <details>
-<summary><strong>🎨 Deep Learning Pseudo-Colorization of Grayscale Images</strong></summary>
+<summary><strong> Deep Learning Pseudo-Colorization of Grayscale Images</strong></summary>
 
 > Applied deep learning research — automated colorization of B&W imagery using CNNs.
 
@@ -130,7 +130,7 @@ My near-term goal: ship AI-powered software products that solve real problems at
 </details>
 
 <details>
-<summary><strong>🌌 Cygnus-IV — NASA Asteroid Impact Simulator</strong></summary>
+<summary><strong> Cygnus-IV — NASA Asteroid Impact Simulator</strong></summary>
 
 > Physics simulation tool for modeling asteroid trajectories and Earth impact scenarios.
 
@@ -139,7 +139,7 @@ My near-term goal: ship AI-powered software products that solve real problems at
 </details>
 
 <details>
-<summary><strong>📊 ADATRA · PRISM</strong></summary>
+<summary><strong> ADATRA · PRISM</strong></summary>
 
 > Internal tools and research-grade software — details available on request.
 
@@ -147,7 +147,7 @@ My near-term goal: ship AI-powered software products that solve real problems at
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -192,42 +192,38 @@ My near-term goal: ship AI-powered software products that solve real problems at
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DawoodShahzad61004&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" alt="GitHub Stats"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DawoodShahzad61004&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" alt="Top Languages"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=DawoodShahzad61004&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa" alt="GitHub Streak"/>
-
-</div>
+## GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=DawoodShahzad61004&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=DawoodShahzad61004&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DawoodShahzad61004&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
-## 🗺️ Roadmap — What's Next
+## Roadmap — What's Next
 
-```
-2025 ──── Now ─────────────────────────────── 2026 ──────────────────►
+```text
+2025 ──── Present ─────────────────────────── 2026+ ────────────────►
 
-  ✅ Multi-agent systems         📍 Advanced LangGraph orchestration
-  ✅ RAG pipeline design          ⬜ LLM fine-tuning workflows
-  ✅ ChromaDB / Vector DBs        ⬜ LLMOps & agent observability
-  ✅ Full-stack AI SaaS           ⬜ Production-grade AI APIs at scale
-                                  ⬜ Open-source AI tooling contribution
-                                  ⬜ AI-first software house (long game)
+  Built
+  ├── Multi-Agent Systems
+  ├── RAG Pipelines
+  ├── ChromaDB & Vector Search
+  └── Full-Stack AI Applications
+
+  Exploring Next
+  ├── LangGraph Orchestration
+  ├── LLM Fine-Tuning
+  ├── LLMOps & Observability
+  ├── Scalable AI APIs
+  ├── Open-Source AI Infrastructure
+  └── AI-First Product Development
 ```
 
 The trajectory is clear: deeper into the engineering layer of AI — not just using models, but building the systems around them.
 
 ---
 
-## 💼 Experience Snapshot
+## Experience Snapshot
 
 | Role | Type | Stack |
 |------|------|-------|
@@ -245,7 +241,7 @@ The trajectory is clear: deeper into the engineering layer of AI — not just us
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/Let's%20Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/DawoodShahzad61004)
+[![LinkedIn](https://img.shields.io/badge/Let's%20Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dawoodshahzadbutt61004)
 [![Email](https://img.shields.io/badge/Reach%20Out-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dawoodbutt590@gmail.com)
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" alt="footer"/>
